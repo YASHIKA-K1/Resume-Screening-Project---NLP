@@ -1,4 +1,5 @@
-**📄 Resume Screening & Classification System:**
+**📄 Resume Screening & Classification System**
+
 An NLP-based Resume Screening System that automatically classifies resumes into relevant job categories using Deep Learning (LSTM). This project helps recruiters and hiring teams reduce manual screening effort by providing fast, accurate, and scalable resume classification.
 
 **🚀 Features**
@@ -60,5 +61,7 @@ Achieved 99.17% accuracy in multi-class resume classification using an LSTM-base
 
 **👩‍💻 Author**
 Yashika Kumawat
+
 B.Tech, IIT Guwahati
+
 Interests: Data Science, Natural Language Processing, Machine Learning
