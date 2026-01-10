@@ -10,6 +10,7 @@ An NLP-based Resume Screening System that automatically classifies resumes into 
 - Scalable design for future deployment as a web app or API
 
 **🧠 Problem Statement:**
+
 Recruiters often spend hours manually reviewing resumes. This project solves that problem by building an AI-powered system that:
 - Reads resume text
 - Understands skill patterns
@@ -60,6 +61,7 @@ Achieved 99.17% accuracy in multi-class resume classification using an LSTM-base
 - Production-ready mindset
 
 **👩‍💻 Author**
+
 Yashika Kumawat
 
 B.Tech, IIT Guwahati
