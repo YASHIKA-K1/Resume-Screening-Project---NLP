@@ -1,4 +1,4 @@
-**📄 Resume Screening & Classification System**
+**📄 Resume Screening & Classification System:**
 An NLP-based Resume Screening System that automatically classifies resumes into relevant job categories using Deep Learning (LSTM). This project helps recruiters and hiring teams reduce manual screening effort by providing fast, accurate, and scalable resume classification.
 
 **🚀 Features**
@@ -8,7 +8,7 @@ An NLP-based Resume Screening System that automatically classifies resumes into 
 - Model evaluation using accuracy and classification report
 - Scalable design for future deployment as a web app or API
 
-**🧠 Problem Statement**
+**🧠 Problem Statement:**
 Recruiters often spend hours manually reviewing resumes. This project solves that problem by building an AI-powered system that:
 - Reads resume text
 - Understands skill patterns
@@ -36,7 +36,7 @@ Recruiters often spend hours manually reviewing resumes. This project solves tha
 - LSTM Layer – Learns contextual relationships in text
 - Dense Layers – Final classification with Softmax
 
-**📈 Results**
+**📈 Results:**
 Achieved 99.17% accuracy in multi-class resume classification using an LSTM-based NLP model, outperforming baseline machine learning models such as KNN (98.3%) and Naive Bayes (94.19%). The system significantly improves over traditional keyword-based screening by enabling accurate, automated candidate categorization.
 
 **🔮 Future Improvements**
